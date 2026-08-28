@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Links, Images, &Navigation</title>
+</head>
+<body>
+<h2> My First Link </h2>
+<a href="https://sitnagpur.edu in"> target="_blank"> SIT Nagpur</a>
+<img src="SIT Logo.jpg">
+</body> 
+</html>
